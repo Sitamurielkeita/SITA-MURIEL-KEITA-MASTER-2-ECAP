@@ -1,10 +1,12 @@
 
+
 # PROJET SVM_RÉSEAUX DE NEURONNES : PRÉDICTION DU DIABÈTE CHEZ UNE PERSONNE
  NDEYE BAKHOUM , SITA MURIEL KEITA
  
  MASTER 2 ECAP
 
 Notre projet se base dsur la prédiction du diabète chez une personne. La base de données que nous avions utilisée provient du site Kaggle.
+
 Notre base de données contient 16 variables et possède 70.692 observations . Presque toutes les variables sont catégorielles , une seule variable est quantitative. Notre variable Target ou à prédire est une variable binaire. 
 
 
